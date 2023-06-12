@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.356c56ae.css",
-    "main.js": "/static/js/main.618f9531.js",
-    "static/js/787.8d81df35.chunk.js": "/static/js/787.8d81df35.chunk.js",
-    "index.html": "/index.html",
-    "main.356c56ae.css.map": "/static/css/main.356c56ae.css.map",
-    "main.618f9531.js.map": "/static/js/main.618f9531.js.map",
-    "787.8d81df35.chunk.js.map": "/static/js/787.8d81df35.chunk.js.map"
+    "main.css": "//korotkir.github.io/swp-demo/static/css/main.356c56ae.css",
+    "main.js": "//korotkir.github.io/swp-demo/static/js/main.52eb37e3.js",
+    "static/js/787.8d81df35.chunk.js": "//korotkir.github.io/swp-demo/static/js/787.8d81df35.chunk.js",
+    "index.html": "//korotkir.github.io/swp-demo/index.html",
+    "main.356c56ae.css.map": "//korotkir.github.io/swp-demo/static/css/main.356c56ae.css.map",
+    "main.52eb37e3.js.map": "//korotkir.github.io/swp-demo/static/js/main.52eb37e3.js.map",
+    "787.8d81df35.chunk.js.map": "//korotkir.github.io/swp-demo/static/js/787.8d81df35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.356c56ae.css",
-    "static/js/main.618f9531.js"
+    "static/js/main.52eb37e3.js"
   ]
 }
